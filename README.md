@@ -1,2 +1,2 @@
-# quiz
-quiz python
+# Password
+pass generator python
